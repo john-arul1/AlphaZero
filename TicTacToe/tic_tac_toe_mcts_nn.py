@@ -6,7 +6,9 @@ Created on Sat Sep 23 10:45:09 2023
 
 # typed from freecodecamp video
 
-tic-tac-toe with MCTS algorithm
+tic-tac-toe with MCTS algorithm and NN
+
+The  code is not yet tested
 
 """
 
